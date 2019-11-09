@@ -4,12 +4,13 @@ This repository will setup Sonarqube server with Postgres database in Docker con
 
 ## Prerequisites
 
-Docker should be [installed](https://docs.docker.com/install/) on your system.
+* Latest version of Docker Engine
+* Latest version of Docker Compose
 
 ## Usage
 
 ```bash
-git clone https://thisrepository.com
+git clone https://github.com/Ankit3794/docker-sonarqube.git
 
 cd docker-sonarqube
 
